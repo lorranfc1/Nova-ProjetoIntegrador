@@ -7,7 +7,7 @@
 O Projeto tem como objetivo atender as demandas solicitadas pelo SENAI/RJ, foi pedido, pela biblioteca da instituição,  que fosse feito um programa utilizando visão computacional
 que realizasse a contagem de pessoas. Com isso marcando a quantia, os horários e dias de pico de sujeitos no local
 
-##Programação
+## Programação
 
 ---
 
