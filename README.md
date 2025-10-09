@@ -20,7 +20,7 @@ capaz graças as experiências anteriores com o Mundo SENAI, no qual nosso prot�
 
 ### Hardware:
 
-- Câmera de vigilância:  ip ou USB, Resolução em 1080p, Fps razoável entre 25-30fps.
+- Câmera de vigilância:  ip ou USB, Resolução em 1080p, Fps razoável entre 30-60fps.
 - Computador/Servidor: Pode ser um Pc padrão mas com GPU, para conseguir guardar as informações e não ocorrer travamentos na execução do programa. Exemplo = Raspberry pi4 (para ambientes pequenos).
 - Infraestrutura de rede: Cabos de energia disponível, e switchs se a câmera for alimentada por rede.
 
